@@ -112,6 +112,7 @@ strong {
 .video-frame {
   width: 400px;
   height: 300px;
+  border: 0;
 }
 
 #side-content {
