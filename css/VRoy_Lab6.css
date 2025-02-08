@@ -109,6 +109,11 @@ strong {
   text-align: center;
 }
 
+.video-frame {
+  width: 400px;
+  height: 300px;
+}
+
 #side-content {
   min-height: 150px;
   width: 200px;
